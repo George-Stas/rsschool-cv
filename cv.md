@@ -1,5 +1,5 @@
 ## Stasevich George
-![Photo](/img/1647715968050.jpeg)
+![Photo](/img/1647715968050.jpeg =100x20)
 ## Contacts
 * Address: the country of Belarus, the city of Zhodino;
 * Telephone: +375296799355;
