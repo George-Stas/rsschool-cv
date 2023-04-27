@@ -3,9 +3,9 @@
 * Address: the country of Belarus, the city of Zhodino;
 * Telephone: +375296799355;
 * Telegram: @Gosha153;
-* E-mail: goshastas19@gmail.com;
-* Linkedin: www.linkedin.com/in/stasevich-georgy;
-* GitHub: https://github.com/George-Stas;
+* E-mail: <goshastas19@gmail.com>;
+* Linkedin: <https://linkedin.com/in/stasevich-georgy>;
+* GitHub: <https://github.com/George-Stas>;
 ## About Myself
 I studied at the Belarusian National Technical University as an engineer-economist. Now I work at the company, but I really want to change this place of work. That's why I started studying programming and I didn't notice how I began to like it. To realize my dream, I signed up for a Frontend developer course from RS School. I hope to achieve impressive results in programming, because I consider myself purposeful, I learn and adapt quickly, I can spend a long time doing my favorite thing.
 ## Skills
