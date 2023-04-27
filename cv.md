@@ -22,7 +22,7 @@ function cockroachSpeed(s) {
 }
 ```
 ## Work experience
-I had no work experience in an IT company;
+I haven't had any experience an IT company;
 ## Education
 * University: Belarusian National Technical University;
 * IT:
